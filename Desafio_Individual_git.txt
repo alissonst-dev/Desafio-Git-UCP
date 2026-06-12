@@ -1,0 +1,90 @@
+DESAFIO INDIVIDUAL 
+Criando seu primeiro repositório no GitHub
+
+
+
+O QUE É O DESAFIO?
+-------------------
+Você vai criar um repositório do zero, adicionar um arquivo
+com informações sobre você e subir tudo para o GitHub.
+
+Ao final, qualquer pessoa com o link vai conseguir ver
+seu trabalho publicado.
+
+
+O QUE VOCÊ VAI PRECISAR
+------------------------
+- Git instalado e configurado com seu nome e e-mail
+- Conta no GitHub criada e verificada
+- VSCode aberto
+- Terminal disponível
+
+
+O QUE VOCÊ VAI FAZER
+---------------------
+
+1. PREPARAR O AMBIENTE
+   Confirme que o Git está instalado e que seu nome e
+   e-mail já estão configurados.
+   Se não estiver configurado, faça isso antes de continuar.
+
+
+2. CRIAR A PASTA DO PROJETO
+   Dentro da pasta Documentos, crie uma pasta chamada
+   "meu-primeiro-repo" e entre nela pelo terminal.
+
+
+3. INICIALIZAR O REPOSITÓRIO
+   Dentro da pasta criada, inicialize o Git e verifique
+   o status para confirmar que funcionou.
+
+
+4. CRIAR O ARQUIVO
+   Abra o VSCode dentro da pasta e crie um arquivo
+   chamado "sobre-mim.txt" com as seguintes informações:
+
+      - Seu nome
+      - Seu curso
+      - Por que escolheu Engenharia de Software
+      - Um hobby seu
+
+   Salve o arquivo e volte ao terminal para confirmar
+   que o Git percebeu a criação.
+
+
+5. FAZER O PRIMEIRO COMMIT
+   Prepare o arquivo e confirme as alterações com uma
+   mensagem descritiva.
+
+   Verifique o histórico e confirme que seu nome aparece
+   como autor.
+
+
+6. CRIAR O REPOSITÓRIO NO GITHUB
+   Acesse o GitHub e crie um repositório público chamado
+   "meu-primeiro-repo".
+
+   Não marque nenhuma opção extra na criação.
+
+
+7. CONECTAR E SUBIR O PROJETO
+   Vincule o repositório local ao GitHub e envie os arquivos.
+
+   Acesse o repositório pelo navegador e confirme que
+   o arquivo está lá.
+
+
+8. FAZER UMA SEGUNDA ALTERAÇÃO
+   Volte ao arquivo "sobre-mim.txt", adicione alguma curiosidade
+   sobre o mundo, salve e envie para o GitHub com uma nova
+   mensagem de commit.
+
+   Confirme que o histórico mostra os 2 commits.
+
+
+ENTREGA
+-------
+- Link do repositório no GitHub
+- Histórico com os 2 commits visíveis — com seu nome como autor
+
+
